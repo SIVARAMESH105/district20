@@ -1,0 +1,1 @@
+<div id="notifications" data-count="{{ App\Helpers\CommonHelper::getUnSeenNotificationCountByUserId() }}"></div>

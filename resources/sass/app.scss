@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.react-responsive-modal-modal{
+	max-width:500px!important;
+}
+.seen{
+	color: #1f2d3d!important;
+    background: #f8f9fa!important;
+    border-color: #e9ecef!important;
+}
+.unseen{
+	color: #155724!important;
+    background-color: #d4edda!important;
+    border-color: #c3e6cb!important;
+}
